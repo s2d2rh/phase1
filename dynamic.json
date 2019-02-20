@@ -1,0 +1,44 @@
+{
+	"profile":{
+		"img":"jerry.png",
+		"name":"Anusha",
+		"rollno":"17NN1A1211",
+		"place":"guntur",
+		"email":"bhagyasree.somu@gmail.com"
+	},
+	"career":{
+		"info":"to become a good employee by utilizing my skills"
+	},
+	"education":
+	[
+		{
+		"degree":"b.tech",
+		"institute":"vignan",
+		"per":"89%",
+		"yop":"2017-21"
+	    },
+	    {
+	    	"degree":"inter",
+		"institute":"vignan",
+		"per":"89%",
+		"yop":"2016-17"
+	    },
+		{
+		"degree":"ssc",
+		"institute":"vignan",
+		"per":"89%",
+		"yop":"2015"
+		}
+	],
+	"languages":[
+         {
+         	"info":"english"
+         },
+         {
+         	"info":"telugu"
+         },
+         {
+         	"info":"hindi"
+         }
+	]
+}
